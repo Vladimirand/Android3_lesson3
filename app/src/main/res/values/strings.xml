@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Lesson3</string>
+    <string name="app_name">Lesson 3</string>
+    <string name="select_image">Выбрать картинку</string>
+    <string name="converted_and_save">Конвертиравано и сохранено</string>
 </resources>
